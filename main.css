@@ -706,9 +706,7 @@ a.second-link:hover {
     margin-top: 30px;
   }
 
-  .group-item {
-    flex-direction: row;
-  }
+  
   .group-info-group {
     margin-left: 20px;
     flex-direction: row;
